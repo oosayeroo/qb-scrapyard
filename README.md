@@ -10,6 +10,8 @@ jimathy for letting me use some of his images
 
 ```
 
+Discord:https://discord.gg/3WYz3zaqG5
+
 # Add to qb-core/shared/items
 ```
  -- qb-scrapyard
